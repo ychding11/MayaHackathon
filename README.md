@@ -1,4 +1,4 @@
-#Overview
+# Overview
 ----------
 
 We applied an open source toolkit called OpenFace on Github. It can track human face, do Head
@@ -14,7 +14,7 @@ When received these data, third party software, here we choose Processing which 
 tool within the visual arts, does deeper computing and assemble those received data into new format 
 to drive a 3D human head model in Autodesk Maya by MEL command.
 
-#Reference
+# Reference
 ----------
 
 OpenFace: an open source  behavior analysis toolkit[WIKI](https://github.com/TadasBaltrusaitis/OpenFace/wiki)**
@@ -24,7 +24,7 @@ We use the following features of OpenFace.
 Tadas Baltrušaitis, Peter Robinson, and Louis-Philippe Morency,in *IEEE Winter Conference on Applications of Computer Vision*, 2016  
 
 - **Constrained Local Neural Fields for robust facial landmark detection in the wild** Tadas Baltrušaitis, Peter Robinson, and Louis-Philippe Morency. 
-- in IEEE Int. *Conference on Computer Vision Workshops, 300 Faces in-the-Wild Challenge*, 2013.  
+in IEEE Int. *Conference on Computer Vision Workshops, 300 Faces in-the-Wild Challenge*, 2013.  
 
 - **Rendering of Eyes for Eye-Shape Registration and Gaze Estimation** Erroll Wood, Tadas Baltrušaitis, Xucong Zhang, Yusuke Sugano, Peter Robinson, and Andreas Bulling 
 in *IEEE International. Conference on Computer Vision (ICCV)*,  2015 
