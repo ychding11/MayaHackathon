@@ -13,6 +13,10 @@ When received these data, third party software, here we choose Processing which 
 tool within the visual arts, does deeper computing and assemble those received data into new format 
 to drive a 3D human head model in Autodesk Maya by MEL command.
 
+# Demo
+<video src="demo.mp4" controls="controls">
+</video>
+
 # Reference
 
 ## OpenFace
