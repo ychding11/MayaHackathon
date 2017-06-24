@@ -1,5 +1,5 @@
 # Overview
-----------
+
 We applied an open source toolkit called OpenFace on Github. It can track human face, do Head
 Pose Estimation, track Eye Gaze and do Facial Action Unit Recognition in real-time by a single
 RGB camera. 
@@ -14,7 +14,6 @@ tool within the visual arts, does deeper computing and assemble those received d
 to drive a 3D human head model in Autodesk Maya by MEL command.
 
 # Reference
-----------
 
 ## OpenFace
 An open source  behavior analysis toolkit[WIKI](https://github.com/TadasBaltrusaitis/OpenFace/wiki)**
@@ -38,4 +37,14 @@ in *Facial Expression Recognition and Analysis Challenge*,
 Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. 
 There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.
 
+## OSC
+Open Sound Control (OSC) is a protocol for networking sound synthesizers, computers,
+and other multimedia devices for purposes such as musical performance or show control.
+OSC's advantages include interoperability, accuracy, flexibility and enhanced organization and documentation.
+[wiki](https://en.wikipedia.org/wiki/Open_Sound_Control)
 
+## Maya
+[Autodesk Maya](https://www.autodesk.com/products/maya/overview)  commonly shortened to Maya, is a 3D computer graphics software 
+that runs on Windows, macOS and Linux, originally developed by Alias Systems Corporation (formerly Alias|Wavefront) and currently 
+owned and developed by Autodesk, Inc. It is used to create interactive 3D applications, 
+including video games, animated film, TV series, or visual effects.
