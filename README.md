@@ -15,7 +15,9 @@ to drive a 3D human head model in Autodesk Maya by MEL command.
 
 # Reference
 ----------
-OpenFace: an open source  behavior analysis toolkit[WIKI](https://github.com/TadasBaltrusaitis/OpenFace/wiki)**
+
+## OpenFace
+An open source  behavior analysis toolkit[WIKI](https://github.com/TadasBaltrusaitis/OpenFace/wiki)**
 We use the following features of OpenFace.
 
 - **OpenFace: an open source facial behavior analysis toolkit**
@@ -31,6 +33,9 @@ in *IEEE International. Conference on Computer Vision (ICCV)*,  2015
 in *Facial Expression Recognition and Analysis Challenge*, 
 *IEEE International Conference on Automatic Face and Gesture Recognition*, 2015 
 
-
+## Processing 
+[Processing](https://processing.org/) is a flexible software sketchbook and a language for learning how to code within the context of the visual arts.
+Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. 
+There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.
 
 
