@@ -1,6 +1,5 @@
 # Overview
 ----------
-
 We applied an open source toolkit called OpenFace on Github. It can track human face, do Head
 Pose Estimation, track Eye Gaze and do Facial Action Unit Recognition in real-time by a single
 RGB camera. 
@@ -16,7 +15,6 @@ to drive a 3D human head model in Autodesk Maya by MEL command.
 
 # Reference
 ----------
-
 OpenFace: an open source  behavior analysis toolkit[WIKI](https://github.com/TadasBaltrusaitis/OpenFace/wiki)**
 We use the following features of OpenFace.
 
