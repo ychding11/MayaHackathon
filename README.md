@@ -14,8 +14,7 @@ tool within the visual arts, does deeper computing and assemble those received d
 to drive a 3D human head model in Autodesk Maya by MEL command.
 
 # Demo
-<video src="demo.mp4" controls="controls">
-</video>
+![demo](demo.gif "demo")
 
 # Reference
 
